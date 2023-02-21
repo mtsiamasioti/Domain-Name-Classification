@@ -1,5 +1,5 @@
 # Domain-Name-Classification
-(Kaggle Challenge)
+(Kaggle Challenge - PyTorch)
 
 For this challenge, we were provided with a subgraph with the Greek web graph, where
 nodes correspond to domain names. More specifically, a directed edge between two nodes
